@@ -1,0 +1,14 @@
+Using Bubble Sort Algorithm:
+Before sorting: [11, 6, 4, 1, 13, 6, 16, 21, 7, 19, 18]
+After sorting: [1, 4, 6, 6, 7, 11, 13, 16, 18, 19, 21]
+Number of swap: 15
+
+Using Selection Sort Algorithm:
+Before sorting: [11, 6, 4, 1, 13, 6, 16, 21, 7, 19, 18]
+After sorting: [1, 4, 6, 6, 7, 11, 13, 16, 18, 19, 21]
+Number of swap: 7
+
+Using Insertion Sort Algorithm:
+Before sorting: [11, 6, 4, 1, 13, 6, 16, 21, 7, 19, 18]
+After sorting: [1, 4, 6, 6, 7, 11, 13, 16, 18, 19, 21]
+Number of swap: 25
